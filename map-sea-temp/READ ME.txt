@@ -1,0 +1,16 @@
+=====================================
+Mean Annual Sea Surface Temperature (2009-2013)
+
+	Date created: 2014
+	Data provider: NASA
+	Version: 1.0
+	Distributed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0) license. For more information, please visit 		https://creativecommons.org/licenses/by/3.0/.
+
+--------------------------------------------------------
+Requested citation: 
+NASA Ocean Biology (OB.DAAC). (2014). Mean annual sea surface temperature for the period 2009-2013 (composite dataset created by UNEP-WCMC). Data obtained from the Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua Ocean Colour website (NASA OB.DAAC, Greenbelt, MD, USA). Accessed 28/11/2014. URL: http://oceancolor.gsfc.nasa.gov/cgi/l3. Cambridge (UK): UNEP World Conservation Monitoring Centre. URL: http://data.unep-wcmc.org/datasets/36.
+--------------------------------------------------------
+
+Earlier version-specific comments:
+============================================
+For information regarding changes between versions, please refer to the "Lineage" field in the associated metadata.
